@@ -1,0 +1,10 @@
+object Form1: TForm1
+  Left = 399
+  Height = 416
+  Top = 152
+  Width = 682
+  Caption = 'Click on ColumnTitle to sort by column'
+  OnActivate = FormActivate
+  OnCreate = FormCreate
+  LCLVersion = '1.9.0.0'
+end
