@@ -20,11 +20,14 @@ type
 
   end;
 
+
+
 var
   Form1: TForm1;
   SortGrid1 : TSortGrid;
 
 implementation
+
 
 {$R *.lfm}
 
