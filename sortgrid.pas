@@ -98,6 +98,18 @@ begin
   Self.Options := Self.Options + [goHeaderPushedLook];
 
   self.FixedCols:=0;
+
+   (* für alle die kein lazarus trunk verwenden *)
+  if  not (csDesigning in ComponentState) then
+  begin
+
+    for x := 0 to 0 do
+    begin
+      self.Columns.Add;
+      self.Columns[x].Title.ImageIndex:=1;
+    end;
+
+  end;
 end;
 
 destructor TSortGrid.Destroy;

@@ -2,7 +2,7 @@
 <CONFIG>
   <Package Version="4">
     <PathDelim Value="\"/>
-    <Name Value="sortgrid1"/>
+    <Name Value="laz_sortgrid"/>
     <Type Value="RunAndDesignTime"/>
     <Author Value="John Landmesser"/>
     <CompilerOptions>
@@ -12,7 +12,14 @@
         <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
       </SearchPaths>
     </CompilerOptions>
-    <Description Value="Selbstkompilierte Komponenten"/>
+    <Description Value="
+TStringGrid sorts everything as string!
+
+To improve that i developed TSortGrid, derived from TStringGrid, but capable of sorting Integer, Float, Date, Time, String and show up- and down- arrows in TitleCaption.
+
+Installs to Tab Additional
+"/>
+    <License Value="Freeware"/>
     <Version Build="1"/>
     <Files Count="2">
       <Item1>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1523388537"/>
+  <Params Value=" -MObjFPC -Scghi -CX -Cg -O3 -XX -l -vewnhibq -Fu/run/media/john1/ntfs1/PROJEKTE/Lazarus/comp/my_comps_svn/comp/uniqueinstance -Fu/run/media/john1/ntfs1/PROJEKTE/Lazarus/comp/my_comps_svn/comp -Fu/run/media/john1/ntfs1/PROJEKTE/Lazarus/comp/my_comps_svn -Fu/run/media/john1/ntfs1/PROJEKTE/Lazarus/comp/my_comps_svn/lib/x86_64-linux -Fu/home/john1/lazarus/components/sdf/lib/x86_64-linux/gtk2 -Fu/home/john1/lazarus/lcl/units/x86_64-linux/gtk2 -Fu/home/john1/lazarus/lcl/units/x86_64-linux -Fu/home/john1/lazarus/components/lazutils/lib/x86_64-linux -Fu/home/john1/lazarus/packager/units/x86_64-linux -Fu/run/media/john1/ntfs1/PROJEKTE/Lazarus/comp/my_comps_svn/Demo/ -dLCL -dLCLgtk2 project1.lpr"/>
+</CONFIG>

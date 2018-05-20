@@ -1,7 +1,7 @@
 object Form1: TForm1
-  Left = 659
+  Left = 399
   Height = 433
-  Top = 189
+  Top = 152
   Width = 710
   Caption = 'Click on ColumnTitle to sort by column'
   DesignTimePPI = 100
